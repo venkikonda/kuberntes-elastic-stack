@@ -1,1 +1,1 @@
-# kuberntes-elastic-stack
+# Elastic stack on Kubernetes
